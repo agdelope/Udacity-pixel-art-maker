@@ -1,1 +1,0 @@
-# Udacity-pixel-art-maker
